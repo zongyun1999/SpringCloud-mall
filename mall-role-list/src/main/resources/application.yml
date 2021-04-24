@@ -3,4 +3,4 @@ spring:
     config:
       uri: http://localhost:8888
       name: mall-role-list
-      label: Dev
+      label: master

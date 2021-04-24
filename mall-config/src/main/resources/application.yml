@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/besscroft/SpringCloud-mall.git
+          uri: https://github.com/zongyun1999/SpringCloud-mall.git
           search-paths: config
 eureka:
   client:
